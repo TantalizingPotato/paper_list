@@ -34,3 +34,11 @@
 |2021|VLDB|Tensors: an abstraction for general data processing|[PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/513207/1/3467861.3467869.pdf)||
 |2022|VLDB|Query Processing on Tensor Computation Runtimes|[PDF](https://www.vldb.org/pvldb/vol15/p2811-he.pdf)||
 
+
+
+#### learning resources:
+> Pytorch Documentation: https://pytorch.org/docs/
+
+> Pytorch C++ APIs: https://pytorch.org/cppdocs
+
+> CUDA C++ Programming Guide: https://docs.nvidia.com/cuda/cuda-c-programming-guide/
