@@ -35,6 +35,13 @@
 |2022|VLDB|Query Processing on Tensor Computation Runtimes|[PDF](https://www.vldb.org/pvldb/vol15/p2811-he.pdf)||
 
 
+## Others
+
+| Year |Conference| Title | Paper | About |
+|-----|-----|-----|-----|-----|
+|2023|ICDE|HyTGraph: GPU-Accelerated Graph Processing with Hybrid Transfer Management|[PDF](https://arxiv.org/pdf/2208.14935)|CPU-GPU Transfer Management|
+|2023|ICDE|GAMMA: A Graph Pattern Mining Framework for Large Graphs on GPU||CPU-GPU Transfer Management|
+|2023|ICDE|These Rows Are Made for Sorting and That’s Just What We’ll Do|[PDF](https://hannes.muehleisen.org/publications/ICDE2023-sorting.pdf)|Multi-Column Sorting|
 
 #### learning resources:
 > Pytorch Documentation: https://pytorch.org/docs/
