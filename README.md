@@ -39,6 +39,7 @@
 
 | Year |Conference| Title | Paper | About |
 |-----|-----|-----|-----|-----|
+|2021|VLDB|Columnar Storage and List-based Processing for Graph Database Management Systems|[PDF](http://www.vldb.org/pvldb/vol14/p2491-gupta.pdf)|Clumnar Storage|
 |2023|ICDE|HyTGraph: GPU-Accelerated Graph Processing with Hybrid Transfer Management|[PDF](https://arxiv.org/pdf/2208.14935)|CPU-GPU Transfer Management|
 |2023|ICDE|GAMMA: A Graph Pattern Mining Framework for Large Graphs on GPU||CPU-GPU Transfer Management|
 |2023|ICDE|These Rows Are Made for Sorting and That’s Just What We’ll Do|[PDF](https://hannes.muehleisen.org/publications/ICDE2023-sorting.pdf)|Multi-Column Sorting|
